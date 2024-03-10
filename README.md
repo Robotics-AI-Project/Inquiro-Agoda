@@ -23,10 +23,10 @@ Please note that this project mainly utilizes Bun capabilities. This means that 
 git clone git@github.com:Robotics-AI-Project/Inquiro-Frontend-v3.git
 ```
 
-2. Copy the `.env.tempalte` file to `.env.local`:
+2. Copy the `.env.template` file to `.env.local`:
 
 ```bash
-cp .env.tempalte .env.local
+cp .env.template .env.local
 ```
 
 and fill in the required values.
